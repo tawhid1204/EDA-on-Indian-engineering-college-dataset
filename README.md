@@ -27,10 +27,10 @@
 ### Most of the colleges in India is rated 7.8 which is a good sign of Indian education syestem 
 # Average Infrastucture rating by State
 ![image](https://github.com/tawhid1204/EDA-on-Indian-engineering-college-dataset/assets/141393094/513eec66-fb8f-4678-bbb5-0e41898dc781)
-
+# State wise Acomodatation rating 
 ![image](https://github.com/tawhid1204/EDA-on-Indian-engineering-college-dataset/assets/141393094/6480d6be-4046-40da-8421-9a1275dd8af5)
-
+# State wise Academic performance 
 ![image](https://github.com/tawhid1204/EDA-on-Indian-engineering-college-dataset/assets/141393094/34b15f95-0f62-4bc7-b383-687c22c2682e)
 
-#Final Report
+# Final Report
 ![image](https://github.com/tawhid1204/EDA-on-Indian-engineering-college-dataset/assets/141393094/09edcd0e-65df-48c8-95be-df3a6b4b6845)
